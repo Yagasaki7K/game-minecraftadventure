@@ -1,2 +1,3 @@
-# game-minecraftadventure
-A adventure Minecraft world with Yagasaki and Animatrix. Just the save.
+# To Start a Game
+
+`java -Xmx1024M -Xms1024M -jar server.jar nogui`
